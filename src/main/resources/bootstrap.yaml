@@ -12,7 +12,7 @@ spring:
         extConfig:
           - dataId: common-feign.yaml
             refresh: true
-          - dataId: springboot-health.yaml
+          - dataId: common-health.yaml
             refresh: true
         namespace: dev
 server:
